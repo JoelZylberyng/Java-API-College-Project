@@ -1,0 +1,7 @@
+1) Run the commands in "Keystore command line commands" to create keystores and certificates
+
+2) Put "plaintext.txt", "Encryption.properties" and the jar file all in the same directory.
+
+3) Execute the command:
+
+java -jar CipherEngine.jar Encryption.properties plaintext.txt alicepass bobspass
