@@ -21,7 +21,7 @@ import javax.crypto.NoSuchPaddingException;
  * Usage:
  * java [-jar CipherEngine.jar | Main] [properties file name] [plain text file] [keystore a password] [keystore b password]
  *                          or
- * java [-jar CipherEngine.jar | Main] [keystore a password] [plain text file] [keystore b password]
+ * java [-jar CipherEngine.jar | Main] [plain text file] [keystore a password] [keystore b password]
 **/
 public class Main {
 
